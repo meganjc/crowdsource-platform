@@ -66,8 +66,8 @@
       templateUrl: '/static/templates/terms.html'
     })
 
-    .when('/contributors', {
-      templateUrl: '/static/templates/contributors/home.html'
+    .when('/contributors/meganjc', {
+      templateUrl: '/static/templates/contributors/meganjc.html'
     })
 
   /**
